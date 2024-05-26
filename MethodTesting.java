@@ -3,7 +3,7 @@ package test2;
 import java.util.Scanner;
 
 public  class MethodTesting {
-Integer scanNumber;
+Integer scanNumber=newMethod();
 
 	Integer newMethod() {
 		Scanner scan = new Scanner(System.in);
